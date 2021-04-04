@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajmalpk23" alt="ajmalpk23" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ajmalpk6" target="blank"><img src="https://img.shields.io/twitter/follow/ajmalpk23?logo=twitter&style=for-the-badge" alt="ajmalpk23" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ajmalpk6" target="blank"><img src="https://img.shields.io/twitter/follow/ajmalpk6?logo=twitter&style=for-the-badge" alt="ajmalpk23" /></a> </p>
 
 - 🌱 I’m currently learning **Bca at mcas**
 
