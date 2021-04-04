@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajmalpk23" alt="ajmalpk23" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ajmalpk23" target="blank"><img src="https://img.shields.io/twitter/follow/ajmalpk23?logo=twitter&style=for-the-badge" alt="ajmalpk23" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ajmalpk6" target="blank"><img src="https://img.shields.io/twitter/follow/ajmalpk23?logo=twitter&style=for-the-badge" alt="ajmalpk23" /></a> </p>
 
 - 🌱 I’m currently learning **Bca at mcas**
 
@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ajmalpk23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ajmalpk23" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammed ajmal pk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhammed ajmal pk" height="30" width="40" /></a>
-<a href="https://fb.com/muhammed ajmal pk ibz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="muhammed ajmal pk ibz" height="30" width="40" /></a>
+<a href="https://twitter.com/ajmalpk6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ajmalpk23" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammed-ajmal-pk-b9086214b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhammed ajmal pk" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ajmalpk.ibz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="muhammed ajmal pk ibz" height="30" width="40" /></a>
 <a href="https://instagram.com/ajmalpk23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ajmalpk23" height="30" width="40" /></a>
 </p>
 
