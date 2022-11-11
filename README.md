@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **BCA**
 
-- 💬 Ask me about **flutter react-native dart flask**
+- 💬 Ask me about **Android java , kotlin ,Node js ,Express ,codignater ,laraval**
 
 - 📫 How to reach me **ajmalpk23@gmail.com**
 
