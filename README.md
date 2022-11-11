@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ajmalpk6" target="blank"><img src="https://img.shields.io/twitter/follow/ajmalpk6?logo=twitter&style=for-the-badge" alt="ajmalpk23" /></a> </p>
 
-- 🌱 I’m currently learning **BCA**
+
 
 - 💬 Ask me about **Android java , kotlin ,Node js ,Express ,codignater ,laraval**
 
